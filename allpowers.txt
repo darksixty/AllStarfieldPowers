@@ -1,0 +1,26 @@
+player.addspell 2BACB6
+player.addspell 2C538F
+player.addspell 2BACBA
+player.addspell 2C5390
+player.addspell 2C538D
+player.addspell 2BACB5
+player.addspell 2C5391
+player.addspell 2BACB4
+player.addspell 2C538C
+player.addspell 2BACB7
+player.addspell 2C5A62
+player.addspell 2C5399
+player.addspell 2C538B
+player.addspell 2C5A4E
+player.addspell 2C538A
+player.addspell 2C5A67
+player.addspell 2C5A66
+player.addspell 2C5389
+player.addspell 2C5A63
+player.addspell 2C5A54
+player.addspell 2C5A59
+player.addspell 2C5388
+player.addspell 2C5387
+player.addspell 2C5A53
+
+
