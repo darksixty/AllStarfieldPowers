@@ -7,6 +7,7 @@ A txt that can be executed in Starfield to obtain all Starborn Powers instantly 
 USING THIS SCRIPT WILL ABSOLUTELY DISABLE ACHIEVEMENTS. USE AT OWN RISK.
 
 Download the "allpowers.txt" to get all the base Starborn powers with no upgrades.
+
 Download the "allpowersfullupgrade.txt" to get all the Starborn powers + fully upgraded
 
 <h1> HOW TO USE </h1>
