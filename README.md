@@ -25,3 +25,4 @@ Download the "allpowersfullupgrade.txt" to get all the Starborn powers + fully u
 
 7. Profit
 
+Thanks to u/Grizz-0 on reddit for compiling the list of powers and their upgrade commands.
